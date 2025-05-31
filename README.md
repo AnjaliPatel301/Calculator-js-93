@@ -25,5 +25,5 @@ A basic **Calculator web app** built using **HTML, CSS, and JavaScript**. It per
 #output
 
 
-![Screenshot_31-5-2025_7321_127 0 0 1](https://github.com/user-attachments/assets/d438efa1-f8b7-4877-a715-545877600335)
+![Screenshot_31-5-2025_7842_127 0 0 1](https://github.com/user-attachments/assets/ac1a3591-5524-41bd-a734-6aa51431b514)
 
